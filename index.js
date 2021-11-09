@@ -49,4 +49,3 @@ let Species = species.find({ latitude: "26.1894474" }).then(
 
 //console.log(user)
 //process.exit(0)
-//})()
